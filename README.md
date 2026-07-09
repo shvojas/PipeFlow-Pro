@@ -1,6 +1,7 @@
 PipeFlow Pro
 MATLAB-based hydraulic analysis software for pipe flow calculations.
 Features
+
 Multiple Fluids
 
 Water
@@ -36,9 +37,9 @@ Engineering Design Advisor
 Pressure Drop Graph
 Report Export
 Reset Function
-Engineering Equations Used
 
-Mention these.
+
+Engineering Equations Used
 
 Continuity Equation
 V = Q/A
