@@ -43,17 +43,24 @@ Engineering Equations Used
 
 Continuity Equation
 V = Q/A
+
 Reynolds Number
 Re = ρVD/μ
+
 Darcy-Weisbach Equation
 hf = f(L/D)(V²/2g)
+
 Swamee-Jain Equation
 f = 0.25/[log10(e/3.7D + 5.74/Re^0.9)]²
+
 Pressure Drop
 ΔP = ρgh
+
 Pump Power
 P = ρgQH/η
+
 Software Workflow
+
 User Input
 
 ↓
